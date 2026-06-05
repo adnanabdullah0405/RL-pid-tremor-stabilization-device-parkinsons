@@ -147,8 +147,8 @@ graph TD
 ### 📊 Neural Network Classification Report
 ![Classification Report](results/classification%20report.png)
 
-### Device Picture
-![Device Picture](results/Screenshot 2026-05-05 120552.png)
+### 🔧 Physical Device — Hardware Prototype
+![Device Hardware](results/Screenshot%202026-05-05%20120552.png)
 
 
 ### 🎥 Complete Demo Video
