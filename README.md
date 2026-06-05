@@ -141,7 +141,14 @@ graph TD
 
 ## 📸 Results & Demo
 
-> Demo and results coming soon
+### 🤖 Reinforcement Learning Training Graph
+![RL Training](results/RL.png)
+
+### 📊 Neural Network Classification Report
+![Classification Report](results/classification%20report.png)
+
+### 🎥 Complete Demo Video
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Complete_Demo-Video-blue?style=for-the-badge)](results/Demo%20_Complete.mp4)
 
 ---
 
