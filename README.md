@@ -147,6 +147,10 @@ graph TD
 ### 📊 Neural Network Classification Report
 ![Classification Report](results/classification%20report.png)
 
+### Device Picture
+![Device Picture](results/Screenshot 2026-05-05 120552.png)
+
+
 ### 🎥 Complete Demo Video
 [![Watch Demo](https://img.shields.io/badge/▶_Watch_Complete_Demo-Video-blue?style=for-the-badge)](results/Demo%20_Complete.mp4)
 
